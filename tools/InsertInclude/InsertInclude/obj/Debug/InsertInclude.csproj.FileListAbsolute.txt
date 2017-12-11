@@ -1,0 +1,11 @@
+C:\Users\gea01\Documents\project_underdevelop\state-chart\m5\Tools\InsertInclude\InsertInclude\bin\Debug\InsertInclude.exe.config
+C:\Users\gea01\Documents\project_underdevelop\state-chart\m5\Tools\InsertInclude\InsertInclude\bin\Debug\InsertInclude.exe
+C:\Users\gea01\Documents\project_underdevelop\state-chart\m5\Tools\InsertInclude\InsertInclude\bin\Debug\InsertInclude.pdb
+C:\Users\gea01\Documents\project_underdevelop\state-chart\m5\Tools\InsertInclude\InsertInclude\obj\Debug\InsertInclude.exe
+C:\Users\gea01\Documents\project_underdevelop\state-chart\m5\Tools\InsertInclude\InsertInclude\obj\Debug\InsertInclude.pdb
+C:\Users\gea01\Documents\state_managemet_tools\state-chart2\Tools\InsertInclude\InsertInclude\bin\Debug\InsertInclude.exe.config
+C:\Users\gea01\Documents\state_managemet_tools\state-chart2\Tools\InsertInclude\InsertInclude\obj\Debug\InsertInclude.exe
+C:\Users\gea01\Documents\state_managemet_tools\state-chart2\Tools\InsertInclude\InsertInclude\obj\Debug\InsertInclude.pdb
+C:\Users\gea01\Documents\state_managemet_tools\state-chart2\Tools\InsertInclude\InsertInclude\bin\Debug\InsertInclude.exe
+C:\Users\gea01\Documents\state_managemet_tools\state-chart2\Tools\InsertInclude\InsertInclude\bin\Debug\InsertInclude.pdb
+C:\Users\gea01\Documents\state_managemet_tools\state-chart2\Tools\InsertInclude\InsertInclude\obj\Debug\InsertInclude.csprojResolveAssemblyReference.cache
