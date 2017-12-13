@@ -1,7 +1,6 @@
 C:\Users\gea01\Documents\studyjs\tools\DefineConverter\DefineConverter\bin\Debug\DefineConverter.exe.config
 C:\Users\gea01\Documents\DefineConverter\m0\DefineConverter\bin\Debug\DefineConverter.exe.config
 C:\Users\gea01\Documents\DefineConverter\m0\DefineConverter\obj\Debug\DefineConverter.csproj.ResolveComReference.cache
-C:\Users\gea01\Documents\DefineConverter\m0\DefineConverter\obj\Debug\DefineConverter.csprojResolveAssemblyReference.cache
 C:\Users\gea01\Documents\DefineConverter\m0\DefineConverter\bin\Debug\DefineConverter.exe
 C:\Users\gea01\Documents\DefineConverter\m0\DefineConverter\bin\Debug\DefineConverter.pdb
 C:\Users\gea01\Documents\DefineConverter\m0\DefineConverter\obj\Debug\DefineConverter.exe
