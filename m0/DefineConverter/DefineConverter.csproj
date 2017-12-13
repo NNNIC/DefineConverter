@@ -43,8 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="1000_Converter\Converter_1000_main.cs" />
+    <Compile Include="1000_Converter\Converter_2000_special.cs" />
+    <Compile Include="1000_Converter\Converter_2100_include.cs" />
     <Compile Include="1000_Converter\Converter_9000_tools.cs" />
-    <Compile Include="1000_Converter\Converter_1000_default.cs" />
     <Compile Include="1000_Converter\Converter.cs" />
     <Compile Include="5000_Excel\ExcelWork.cs" />
     <Compile Include="2000_DefineDic\DefineDic.cs" />
